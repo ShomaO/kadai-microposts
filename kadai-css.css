@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 1000px
+    
+}
+
+
+header {
+    background-color: #ffcccc;
+    
+}
+
+#menu {
+    background-color: #ccccff;
+    float: right;
+    width: 30%;
+}
+
+#main {
+    background-color: #ccffcc;
+    float: left;
+    width: 70%;
+}
+
+footer {
+    background-color: #ffccff;
+    clear: both;
+    
+}
